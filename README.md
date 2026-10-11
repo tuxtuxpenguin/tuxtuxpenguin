@@ -42,16 +42,6 @@ A small Python project for converting RGB values to hexadecimal colour codes.
 
 <img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tuxtuxpenguin&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tuxtuxpenguin&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
-
-</div>
-
 ---
 
 <div align="center">
