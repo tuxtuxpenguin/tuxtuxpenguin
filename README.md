@@ -1,24 +1,61 @@
-# 💫 About Me:
-🔭 I’m currently working on random Python projects<br>🌱 I’m currently learning Python and Git<br>🤝 I’m looking to collaborate on Small Python projects<br>👨‍💻 All of my projects are available at https://github.com/tuxtuxpenguin<br>💬 Ask me about Python experiments and beginner coding<br>📫 How to reach me mad_penguin_head on Discord
 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tuxtuxpenguin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tuxtuxpenguin&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tuxtuxpenguin&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# `tuxtuxpenguin`
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tuxtuxpenguin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Python projects, random experiments, and things I build for fun.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Profile Views](https://komarev.com/ghpvc/?username=tuxtuxpenguin&style=flat-square&color=647cff&label=PROFILE+VIEWS)](https://github.com/tuxtuxpenguin)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tuxtuxpenguin&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=tuxtuxpenguin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🔭 Currently working on random Python projects
+- 🌱 Learning Python and Git
+- 🤝 Open to collaborating on small Python projects
+- 💬 Ask me about Python experiments and beginner coding
+- 📫 Discord: `mad_penguin_head`
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB)
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032)
+
+## 🚀 Featured Project
+
+<a href="https://github.com/tuxtuxpenguin/manual-rgb-to-hex">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=tuxtuxpenguin&repo=manual-rgb-to-hex&theme=github_dark&hide_border=true" alt="manual-rgb-to-hex project card" />
+</a>
+
+A small Python project for converting RGB values to hexadecimal colour codes.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=tuxtuxpenguin&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=tuxtuxpenguin&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<img width="60%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tuxtuxpenguin&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tuxtuxpenguin&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+*still building, still learning.*
+
+</div>
