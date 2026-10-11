@@ -56,6 +56,6 @@ A small Python project for converting RGB values to hexadecimal colour codes.
 
 <div align="center">
 
-*still building, still learning.*
+*still suck, sigh.*
 
 </div>
