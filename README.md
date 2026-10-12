@@ -5,7 +5,7 @@
 
 **Python projects, random experiments, and things I build for fun.**
 
-[![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftuxtuxpenguin&count_bg=%23647CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true)](https://github.com/tuxtuxpenguin)
+[![Profile Views](https://komarev.com/ghpvc/?username=tuxtuxpenguin&style=flat-square&color=647cff&label=PROFILE+VIEWS)](https://github.com/tuxtuxpenguin)
 
 </div>
 
